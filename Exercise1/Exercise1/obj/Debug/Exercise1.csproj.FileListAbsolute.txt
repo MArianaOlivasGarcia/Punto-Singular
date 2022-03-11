@@ -1,0 +1,8 @@
+C:\Users\Enrique Olivas\Desktop\Exercise1\Exercise1\bin\Debug\Exercise1.exe.config
+C:\Users\Enrique Olivas\Desktop\Exercise1\Exercise1\bin\Debug\Exercise1.exe
+C:\Users\Enrique Olivas\Desktop\Exercise1\Exercise1\bin\Debug\Exercise1.pdb
+C:\Users\Enrique Olivas\Desktop\Exercise1\Exercise1\obj\Debug\Exercise1.csproj.AssemblyReference.cache
+C:\Users\Enrique Olivas\Desktop\Exercise1\Exercise1\obj\Debug\Exercise1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Enrique Olivas\Desktop\Exercise1\Exercise1\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\Enrique Olivas\Desktop\Exercise1\Exercise1\obj\Debug\Exercise1.exe
+C:\Users\Enrique Olivas\Desktop\Exercise1\Exercise1\obj\Debug\Exercise1.pdb
